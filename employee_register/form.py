@@ -8,6 +8,7 @@ class EmployeeForm(ModelForm):
         fields = '__all__'
         labels = {
             'name': 'Full Name',
+            # might add date of birth later on
             'emp_code': 'EMP.Code',
         }
     
