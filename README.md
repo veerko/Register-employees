@@ -13,4 +13,4 @@ This is simple Employee registartion application to implement CRUD functionality
 
 # We can edit and remove data by clicking on the icon.
 
-#TO-DO swtich from sql lite to mysql
+
